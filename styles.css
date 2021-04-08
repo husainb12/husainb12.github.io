@@ -1,0 +1,11 @@
+nav {padding: 1em;border-radius: 2em;border-color: rgb(251,33,125);border-width: 0.15em;border-style: solid;font-family: 'Concert One', cursive;}
+nav a {color: rgb(251,33,125); padding-left: 5em;font-family: 'Montserrat', sans-serif;}
+.row {display: flex;}
+.leftcolum {flex 60%;height: 40vh; flex: 40%;}
+.test {height: 40vh; flex: 60%;background-position: center;background-size: contain;background-repeat: no-repeat;}
+h1 {font-family: 'Concert One', cursive; font-size: 4em;color: rgb(251,33,125);padding-top: 1em;padding-left: 1em;}
+#main-text {font-family: 'Montserrat', sans-serif;margin-top: 6em;margin-right: auto;margin-left: auto;width: 80%;}
+#image1 { background-image: url(images/friends.png)}
+#image2 { background-image:  url(images/fun.png);}
+#image3 { background-image:  url(images/selfie.png);}
+#password-area {margin-top: 5em;}
